@@ -5,3 +5,6 @@
 Meu nome é Felipe Gomes e estarei atualizando constantemente este perfil com projetos pessoais e acadêmicos !
 
 Conecte - se comigo : https://www.linkedin.com/in/felipelgomes/
+
+
+<img src="https://media4.giphy.com/media/RbDKaczqWovIugyJmW/giphy.gif" alt="Gif divertido">
