@@ -8,8 +8,8 @@ Conecte - se comigo : https://www.linkedin.com/in/felipelgomes/
 
 
 <a href="https://github.com/L0tus-Program">
-  <img height="180em" src="https://github-readme-stats-eight-theta.vercel.app/api?username=RafaBallerini&show_icons=true&theme=dracula&include_all_commits=true&count_private=true"/>
-  <img height="180em" src="https://github-readme-stats-eight-theta.vercel.app/api/top-langs/?username=RafaBallerini&layout=compact&langs_count=8&theme=dracula"/>
+  <img height="180em" src="https://github-readme-stats-eight-theta.vercel.app/api?username=L0tus-Program&show_icons=true&theme=dracula&include_all_commits=true&count_private=true"/>
+  <img height="180em" src="https://github-readme-stats-eight-theta.vercel.app/api/top-langs/?username=L0tus-Program&layout=compact&langs_count=8&theme=dracula"/>
 
 <br>
 <br>
