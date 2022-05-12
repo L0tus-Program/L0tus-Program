@@ -17,6 +17,6 @@ Conecte - se comigo : https://www.linkedin.com/in/felipelgomes/
 <img src="https://media4.giphy.com/media/RbDKaczqWovIugyJmW/giphy.gif" alt="Gif divertido">
 
 <div>
-<a href="mailto:felipelesgomes.1@gmail.com"> <img src="cdn-icons.flaticon.com/png/512/3178/premium/3178165.png"  width="60"  alt="Email">  </a>
-  <a href="mailto:felipelesgomes.1@gmail.com"> <img src="https://cdn-icons-png.flaticon.com/512/5988/5988512.png"  width="60"  alt="Email">  </a>
+<a href="mailto:felipelesgomes.1@gmail.com"> <img src="https://cdn-icons.flaticon.com/png/512/3178/premium/3178165.png"  width="60"  alt="Email">  </a>
+  <a href="mailto:felipelesgomes.1@gmail.com"> <img src="https://cdn-icons-png.flaticon.com/512/977/977597.png"  width="60"  alt="Email">  </a>
 </div>
