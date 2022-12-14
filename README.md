@@ -5,7 +5,7 @@
 Meu nome é Felipe Gomes e estarei atualizando constantemente este perfil com projetos pessoais e acadêmicos !
 
 Conecte - se comigo : https://www.linkedin.com/in/felipelgomes/
-Site de portfólio : felipe-gomes.netlify.app
+Site de portfólio : https://www.felipe-gomes.netlify.app
 
 
 <a href="https://github.com/L0tus-Program">
