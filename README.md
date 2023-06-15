@@ -19,5 +19,5 @@ Site de portfólio : https://felipe-gomes.netlify.app/
 
 <div>
 <a href="mailto:felipelesgomes.1@gmail.com"> <img src="https://cdn-icons-png.flaticon.com/512/561/561127.png"  width="60"  alt="Email">  </a>
-  <a href="mailto:felipelesgomes.1@gmail.com"> <img src="https://cdn-icons-png.flaticon.com/512/977/977597.png"  width="60"  alt="Site">  </a>
+  <a href="[mailto:felipelesgomes.1@gmail.com](https://felipe-gomes.netlify.app/)"> <img src="https://cdn-icons-png.flaticon.com/512/977/977597.png"  width="60"  alt="Site">  </a>
 </div>
