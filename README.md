@@ -1,13 +1,6 @@
 <div align="center">
 
-```
-██████╗ ██╗  ██╗ ██╗██╗     ██╗██████╗  ███████╗
-██╔══██╗██║  ██║██╔╝██║     ██║██╔══██╗ ██╔════╝
-██████╔╝███████║██║ ██║     ██║██████╔╝ █████╗  
-██╔═══╝ ╚════██║██║ ██║     ██║██╔═══╝  ██╔══╝  
-██║          ██║╚██╗███████╗██║██║      ███████╗
-╚═╝          ╚═╝ ╚═╝╚══════╝╚═╝╚═╝      ╚══════╝
-```
+![Header](https://capsule-render.vercel.app/api?type=waving&color=0:0d1117,100:6e40c9&height=200&section=header&text=Felipe%20Gomes&fontSize=60&fontColor=ffffff&fontAlignY=38&desc=Tech%20Lead%20%7C%20AI%20Engineer%20%7C%20Care%20Intelligence&descAlignY=58&descSize=18&animation=fadeIn)
 
 ### Felipe Gomes · Tech Lead @ Care Intelligence
 
@@ -104,3 +97,5 @@ Sempre aberto a boas conversas sobre **IA aplicada**, **arquitetura de software*
 <div align="center">
 <sub>Feito com ☕ e muito Python · Rio Grande do Sul, Brasil</sub>
 </div>
+
+![Footer](https://capsule-render.vercel.app/api?type=waving&color=0:6e40c9,100:0d1117&height=120&section=footer)
